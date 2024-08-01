@@ -32,8 +32,8 @@ This project is a C++ application that processes grids of characters. It could b
   
 2. **Compile the Project**
    
-    g++ Project1.cpp -o grid_processor
+    `g++ Project1.cpp -o grid_processor`
 
 4. **Run the application**
    
-   ./grid_processor grid1.txt
+   `./grid_processor grid1.txt`
