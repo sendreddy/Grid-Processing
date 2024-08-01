@@ -31,7 +31,9 @@ This project is a C++ application that processes grids of characters. It could b
    cd cpp-grid-processing
   
 2. **Compile the Project**
+   
     g++ Project1.cpp -o grid_processor
 
-3. **Run the application**
+4. **Run the application**
+   
    ./grid_processor grid1.txt
